@@ -3,9 +3,7 @@
 - 👀 I’m interested in Web Application Security
 - 🌱 I’m currently learning how to secure Docker containers 
 - 💞️ I’m looking to collaborate on any projects related to secure coding to enhance my experience.
-- 📫 You can reach me by my email:  or by 
 ### Contact
-
 - ayoubbouallal3@gmail.com
 - [linkedin](https://www.linkedin.com/in/bouallal-ayoub/)
 
