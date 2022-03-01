@@ -8,7 +8,7 @@
 - [linkedin](https://www.linkedin.com/in/bouallal-ayoub/)
 
 ### Statistic
-<img align='left' src="https://github-readme-stats.vercel.app/api?username=TechnologyClassroom&show_icons=true&theme=dark" width="380">
+<img align='left' src="https://github-readme-stats.vercel.app/api?username=Ayoub-2&show_icons=true&theme=dark" width="380">
 <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayoub-2&hide=html&theme=dark&layout=compact" width="380">
 
 
