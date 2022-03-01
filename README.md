@@ -8,8 +8,7 @@
 - [linkedin](https://www.linkedin.com/in/bouallal-ayoub/)
 
 ### Statistic
-![nobodyatall's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ayoub-2&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayoub-2&hide=html&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![nobodyatall's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ayoub-2&show_icons=true&theme=dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayoub-2&hide=html&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 > Once You Enumerate, May the Victim pray Allah to not get burned.
