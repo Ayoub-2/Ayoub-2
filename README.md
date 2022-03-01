@@ -8,7 +8,7 @@
 - [linkedin](https://www.linkedin.com/in/bouallal-ayoub/)
 
 ### Statistic
-![nobodyatall's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ayoub-2&show_icons=true&theme=dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ayoub-2&hide=html&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+<img align='left' src="https://github-readme-stats.vercel.app/api?username=TechnologyClassroom&show_icons=true&theme=dark" width="380">
+<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayoub-2&hide=html&theme=dark&layout=compact" width="380">
 
 > Once You Enumerate, May the Victim pray Allah to not get burned.
