@@ -15,8 +15,8 @@
 ### Reach me at 
 
 <p align="center">
-<a href="mailto:ayoubbouallal3@gmail.com"><img src="./assets/gmail.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
-<a href="https://www.linkedin.com/in/bouallal-ayoub/"><img src="./assets/linkedin.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
+<a href="mailto:ayoubbouallal3@gmail.com"><img src="https://github.com/Ayoub-2/Ayoub-2/tree/main/assets/gmail.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
+<a href="https://www.linkedin.com/in/bouallal-ayoub/"><img src="https://github.com/Ayoub-2/Ayoub-2/tree/main/assets/linkedin.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
 </p>
 
 > Once You Enumerate, May the Victim pray Allah to not get burned.
